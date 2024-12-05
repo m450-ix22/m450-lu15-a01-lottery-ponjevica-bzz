@@ -1,5 +1,35 @@
 [
   {
+    "name": "test_load_people",
+    "function": "test_load_people",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_login_correct",
+    "function": "test_login_correct",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_create_ticket_sufficient_balance",
+    "function": "test_create_ticket_sufficient_balance",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_create_ticket_insufficient_balance",
+    "function": "test_create_ticket_insufficient_balance",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_select_numbers",
+    "function": "test_select_numbers",
+    "timeout": 10,
+    "points": 1
+  },
+  {
     "name": "test_main_exit",
     "function": "test_main_exit",
     "timeout": 10,
@@ -14,6 +44,42 @@
   {
     "name": "test_main_ticket",
     "function": "test_main_ticket",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_transfer_money_deposit",
+    "function": "test_transfer_money_deposit",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_transfer_money_withdrawal",
+    "function": "test_transfer_money_withdrawal",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_person_initialization",
+    "function": "test_person_initialization",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_person_balance_invalid",
+    "function": "test_person_balance_invalid",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_person_balance_valid",
+    "function": "test_person_balance_valid",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_show_menu",
+    "function": "test_show_menu",
     "timeout": 10,
     "points": 1
   }

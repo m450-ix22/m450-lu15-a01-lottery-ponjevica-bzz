@@ -1,6 +1,12 @@
 {
   "files": [
-    "test_main.py"
+    "test_main.py",
+    "test_lottery.py",
+    "test_money.py",
+    "test_person.py",
+    "test_login.py",
+    "test_numeric_value.py",
+    "test_menu.py"
   ],
   "ignore" : [],
   "max": 10
