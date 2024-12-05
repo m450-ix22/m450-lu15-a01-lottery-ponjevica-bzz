@@ -15,4 +15,3 @@ def test_login_correct(monkeypatch, capsys):
     assert person is not None
     assert person.givenname == 'Inga'
 
-
